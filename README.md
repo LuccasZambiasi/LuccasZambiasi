@@ -10,6 +10,8 @@ My github stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasZambiasi&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
+ ![Snake animation](https://github.com/LuccasZambiasi/LuccasZambiasi/blob/main/github-user-contribution.svg)
+
 <!--
 **LuccasZambiasi/LuccasZambiasi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
