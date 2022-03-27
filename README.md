@@ -9,7 +9,7 @@ I'm a full-stack developer and programming for me is a hobby.
 My github stats: 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccasZambiasi&layout=compact&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
-
+<hr> 
  ![Snake animation](https://github.com/LuccasZambiasi/LuccasZambiasi/blob/main/github-user-contribution.svg)
 
 <!--
