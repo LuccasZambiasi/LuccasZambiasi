@@ -1,8 +1,8 @@
 ### Oiee! 👋
 ---------------------------------------
-Hi, my name is Luccas Zambiasi and I'm from Porto Alegre (RS).
+Hi, my name is Lucas Zambiasi and I'm from Porto Alegre (RS).
 
-I'm a full-stack developer and programming for me is a hobby.
+I'm a developer and programming for me is a hobby.
 
 <!-- Work at [@BattleHost](https://github.com/BattleHost) 💚 -->
 
